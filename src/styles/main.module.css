@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'Gayathri';
+    src: local('Gayathri'), url(./../fonts/Gayathri/Gayathri-Regular.ttf) format('truetype');
+  }
+
+.nav{
+    text-align: center;
+    width: 100%;
+}
+
+.name{
+    font-family: Gayathri;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 325%;
+
+}
+
+.headerContainer{
+    padding-top: 30px;
+}
+
+.navLinks{
+    color: gray;
+    padding-left: 20px;
+}
+
+.navLinks:hover{
+    color: #4d4d4d;
+    text-decoration: none;
+}
