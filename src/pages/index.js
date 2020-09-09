@@ -20,7 +20,7 @@ export default function Home() {
         <Col>
         <p className={aboutStyle.text}>
         I am a student at Northeastern University studying Computer Science with a minor in Economics. 
-        I’m currently living (with 5 roommates) in Boston, MA. In my free time, 
+        I grew up in Baltimore, MD, and am currently living in Boston, MA. In my free time, 
         I love boxing, running, reading, exploring the city, baking and watching movies with my roommates.
         </p>
         <p className={aboutStyle.text}>

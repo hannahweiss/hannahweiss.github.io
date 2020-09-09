@@ -13,7 +13,6 @@ export default function Header(){
                 <Link className={mainStyle.navLinks} to="/" >About</Link>
                 <Link className={mainStyle.navLinks} to="education">Education</Link>
                 <Link className={mainStyle.navLinks} to="work">Work Experience</Link>
-                <Link className={mainStyle.navLinks} to="interests">Interests </Link>
             </Nav>
             <br/>
             <br/>

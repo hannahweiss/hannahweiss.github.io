@@ -7,6 +7,7 @@ export default function Work(){
     return (
         <Container>
             <Header/>
+            
         </Container>
 
     );

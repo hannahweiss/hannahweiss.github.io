@@ -1,0 +1,10 @@
+.expandButton{
+    background: none;
+    color: #798071;
+    text-decoration: underline;
+    border: none;
+}
+
+.expandButton :hover {
+    background: none;
+}
