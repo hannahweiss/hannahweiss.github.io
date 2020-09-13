@@ -21,7 +21,7 @@ export default function Home() {
         <p className={aboutStyle.text}>
         I am a student at Northeastern University studying Computer Science with a minor in Economics. 
         I grew up in Baltimore, MD, and am currently living in Boston, MA. In my free time, 
-        I love boxing, running, reading, exploring the city, baking and watching movies with my roommates.
+        I love boxing, running, reading, exploring the city, baking, and watching movies with my roommates.
         </p>
         <p className={aboutStyle.text}>
         I created this website to showcase a little bit about myself and my experience as a software engineer. 

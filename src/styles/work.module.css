@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'Gayathri';
+    src: local('Gayathri'), url(./../fonts/Gayathri/Gayathri-Regular.ttf) format('truetype');
+  }
+
+.logo{
+    width: 200px;
+    height: 200px;
+}
+
+.location{
+    width: 40px;
+    height: 50px;
+}
+
+.locationText{
+    margin-bottom: 0px;
+    color: #798071;
+}
+
+.workRow{
+    margin-bottom: 70px;
+}
+
+.companyName{
+    font-family: Gayathri;
+    color: #798071;
+    margin-bottom: 0px;
+    font-weight: bolder;
+
+}
