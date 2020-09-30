@@ -67,7 +67,7 @@ export default function Work(){
                         Khoury College of Computer Science
                     </h5>
                     <p className={workStyle.locationText}>
-                    <b>Teaching Assistant</b> | September 2019 - December 2019, September 2020 - Present
+                    <b>Teaching Assistant</b> | September 2019 - December 2019
                     </p>
                     <p className={workStyle.locationText}>
                     Boston, MA

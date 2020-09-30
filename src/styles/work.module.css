@@ -22,10 +22,16 @@
     margin-bottom: 70px;
 }
 
+/* .workRow :hover {
+    background-color: #382f16;
+    cursor: pointer;
+} */
+
 .companyName{
     font-family: Gayathri;
     color: #798071;
     margin-bottom: 0px;
     font-weight: bolder;
+    padding-top: 10px;
 
 }
